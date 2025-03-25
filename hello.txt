@@ -1,0 +1,12 @@
+Hello, Git World!
+
+This is my first tracked file in this repository.
+I'm learning about Git and version control.
+
+Some things I want to remember:
+- git add: stages changes
+- git commit: saves staged changes
+- git status: shows the current state
+- git log: shows commit history
+
+Today's date: March 25, 2025
